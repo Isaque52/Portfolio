@@ -26,9 +26,11 @@ main{
     
 }
 
-#Aboutme {
+#About_me {
     display: flex;
     border: 2px solid black;
+    
+    
 
 }
 
