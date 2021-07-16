@@ -14,6 +14,7 @@
     align-items: center;
     flex-direction: row;
     padding: 30px;
+    
 }  
 
 a {
@@ -21,7 +22,15 @@ a {
     text-decoration: none;
 }
 
+main{
+    
+}
 
+#Aboutme {
+    display: flex;
+    border: 2px solid black;
+
+}
 
 
     
