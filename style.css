@@ -7,20 +7,21 @@
     background-color: blue;
 }
 .nav-bar{
-    display: flex;
-    justify-content: space-evenly;
-    border: 3px solid;
     
-    padding: 20px;
-}
-
-h1{
-    color: cornsilk;
-}
-
-main{
     display: flex;
+    font-size: 20px;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    padding: 30px;
+}  
+
+a {
+    color: cornsilk;
+    text-decoration: none;
 }
+
+
 
 
     
