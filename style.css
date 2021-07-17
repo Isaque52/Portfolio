@@ -30,68 +30,60 @@ p {
 }
 
 main{
-    padding: 10px;
+    /* padding: 10px; */
     
 }
 
 #About_me {
     display: flex;
-    
-    height: 25%;
     flex-direction: column;
     justify-content: space-evenly;
-    align-items: center;
+    align-items:flex-start;
     flex-wrap: wrap;
-    margin: 30px;
+}
+.image{
     
 }
+
 div {
-    width: 150px;
+    width: 90%;
     height: 150px;
     border: 2px solid black;
-    
-
 }
 
 #Course {
     display: flex;
-    
-    height: 25%;
     flex-direction: column;
     justify-content: space-evenly;
-    align-items: center;
+    align-items:flex-start;
     flex-wrap: wrap;
-    margin: 30px;
-
+    margin-top: 20px;
+    
 }
+
 #Projects {
     display: flex;
-    
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-evenly;
-    align-items: center;
+    align-items:flex-start;
     flex-wrap: wrap;
-   
-
-    
+    margin-top: 20px;
 }
+
 #Projects div {
-    width: 150px;
+    width: 90%;
     height: 150px;
     border: 2px solid black;
     padding: 10px;
-    margin: 30px;
-
-    
+    margin: 20px;
 }
 
 #Contact {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     flex-direction: column;
-    margin: 20px;
-    padding: 30px;
-
+    margin-top: 20px;
+  
 }
 
 
