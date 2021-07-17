@@ -20,9 +20,11 @@
 a {
     color:white;
     text-decoration: none;
+    font-family: fantasy;
 }
 h2,h3 {
     color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     
 }
 p { 
@@ -41,12 +43,15 @@ main{
     align-items:flex-start;
     flex-wrap: wrap;
 }
-.image{
-    
-}
 
+img {
+    width: 92%auto;
+    height: 150px;
+    object-fit: contain;
+}
+    
 div {
-    width: 90%;
+    width: 92%;
     height: 150px;
     border: 2px solid black;
 }
@@ -59,6 +64,9 @@ div {
     flex-wrap: wrap;
     margin-top: 20px;
     
+}
+#Course p {
+    margin: 10px;
 }
 
 #Projects {
@@ -85,6 +93,8 @@ div {
     margin-top: 20px;
   
 }
+
+
 
 
 
