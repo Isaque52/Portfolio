@@ -45,7 +45,7 @@ main{
 }
 
 img {
-    width: 92%auto;
+    width:92%;
     height: 150px;
     object-fit: contain;
 }
