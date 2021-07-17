@@ -4,7 +4,7 @@
 }
 
 * {
-    background-color: blue;
+    background-color:#2D4D56;
 }
 .nav-bar{
     
@@ -28,7 +28,7 @@ h2,h3 {
     
 }
 p { 
-    color: yellow;
+    color:#D4CDCF;
 }
 
 main{
@@ -54,6 +54,7 @@ div {
     width: 92%;
     height: 150px;
     border: 2px solid black;
+    margin: 20px;
 }
 
 #Course {
